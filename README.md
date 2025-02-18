@@ -1,5 +1,5 @@
 ## For Companies `9+ years of experience`
-`13.000+ SALES` ACROSS THE GLBOE<br>
+`13.000+ SALES` ACROSS THE GLOBE<br>
 `100.000+ SUPPORT MESSAGES` DELIVERED
 
 ## Programming Knowledge `10+ years of experience`
