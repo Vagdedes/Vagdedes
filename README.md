@@ -9,6 +9,7 @@
 `C++` Great for algorithm speed<br>
 `PHP` Great for programming speed<br>
 `Java` Balance between algorithm & programming speed<br>
+`JavaScript` Not a huge fan but needed a lot nowadays<br>
 `SQL` Great for storing & organizing data<br>
 `HTML` The structure of every website<br>
 `Bootstrap` One of the most commonly used website design libraries
