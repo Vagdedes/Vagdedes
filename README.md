@@ -1,4 +1,4 @@
-## Work Experience `9+ years`
+## Work Experience `10+ years`
 `14.000+` SALES ACROSS THE GLOBE<br>
 `100.000+` SUPPORT MESSAGES DELIVERED<br>
 `TOP 10` IN RATING FOR `5+` YEARS IN MINECRAFT PLUGINS<br>
