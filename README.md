@@ -4,7 +4,7 @@
 `TOP 10` IN RATING FOR `5+` YEARS IN MINECRAFT PLUGINS<br>
 `TOP 5` IN RATING FOR `1` YEAR IN MINECRAFT GREEK SERVERS<br>
 `1` YEAR OF EMPLOYER EXPERIENCE IN PROGRAMMING INDUSTRY<br>
-`1` YEAR OF TEAM EXPERIENCE IN PROGRAMMING INDUSTRY
+`2` YEARS OF TEAM EXPERIENCE IN PROGRAMMING INDUSTRY
 
 ## Programming Knowledge `10+ years`
 `C++` Great for algorithm speed<br>
@@ -17,8 +17,5 @@
 `Bootstrap` One of the most commonly used website design libraries
 
 ## Mathematics Knowledge `15+ years`
-`Arithmetic`, `Algebra`, `Trigonometry`, `Geometry`, `Statistics`, `Calculus`
-
-## Trending Projects
-[https://spartan.top](https://spartan.top) ``The longest living Minecraft paid anti cheat!``
+`Mathematical modeling`, `Logic & set theory`, `Discrete math & algorithms`, `Linear algebra`, `Geometry & trigonometry`, `Probability & statistics`, `Calculus & analysis`, `Numerical methods & optimization`, `Number theory`
 
