@@ -7,7 +7,7 @@
 `2` YEARS OF TEAM EXPERIENCE IN PROGRAMMING INDUSTRY
 
 ## Programming Knowledge `10+ years`
-`C++`, `PHP`, `Java`, `JavaScript`, `Linux`, `SQL`, `HTML`, `CSS`, `Bootstrap`
+`C++`, `PHP`, `Java`, `JavaScript`, `Linux`, `SQL`, `No-SQL`, `HTML`, `CSS`, `Bootstrap`
 ## Mathematics Knowledge `15+ years`
 `Mathematical modeling`, `Logic & set theory`, `Discrete math & algorithms`, `Algebra`, `Linear algebra`, `Geometry`. `Trigonometry`, `Probability & statistics`, `Calculus & analysis`, `Numerical methods & optimization`, `Number theory`
 ## My approach to Artificial Intelligence (AI)
