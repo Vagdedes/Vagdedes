@@ -1,4 +1,4 @@
-## Work Experience `10+ years`
+## Work Experience `Since 2016`
 `14.000+` SALES ACROSS THE GLOBE<br>
 `100.000+` SUPPORT MESSAGES DELIVERED<br>
 `TOP 10` IN GLOBAL RATING FOR MULTIPLE YEARS IN MINECRAFT PLUGINS<br>
@@ -6,9 +6,9 @@
 `1` YEAR OF EMPLOYER EXPERIENCE IN PROGRAMMING INDUSTRY<br>
 `2` YEARS OF TEAM EXPERIENCE IN PROGRAMMING INDUSTRY
 
-## Programming Knowledge `10+ years`
+## Programming Knowledge `Since 2015`
 `C++`, `PHP`, `Java`, `JavaScript`, `Linux`, `SQL`, `No-SQL`, `HTML`, `CSS`, `Bootstrap`
-## Mathematics Knowledge `15+ years`
+## Mathematics Knowledge `Since 2013`
 `Mathematical modeling`, `Logic & set theory`, `Discrete math & algorithms`, `Algebra`, `Linear algebra`, `Geometry`. `Trigonometry`, `Probability & statistics`, `Calculus & analysis`, `Numerical methods & optimization`, `Number theory`
 ## My approach to Artificial Intelligence (AI)
 * I actively use AI via API to provide support to my customers or automate other similar tasks.
