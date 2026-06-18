@@ -11,7 +11,7 @@
 ## Mathematics Knowledge `Since 2013`
 `Mathematical modeling`, `Logic & set theory`, `Discrete math & algorithms`, `Algebra`, `Linear algebra`, `Geometry`. `Trigonometry`, `Probability & statistics`, `Calculus & analysis`, `Numerical methods & optimization`, `Number theory`
 ## My approach to Artificial Intelligence (AI)
-* I actively use AI via API to provide support to my customers or automate other similar tasks.
+* I actively use AI via API to provide support to my customers, build apps or automate anything redundant.
 * I also use AI in code editors and IDE software to auto-complete redundant code and thus save time.
 * I am not a fan at all of using AI to generate code you do not understand, personally understanding is a greater priority than speed.
 * I believe AI will revolutionize humanity's future and the purpose of human life, certainly causing chaos in such a transitionary phase.
