@@ -6,10 +6,9 @@
 `1` YEAR OF EMPLOYER EXPERIENCE IN PROGRAMMING INDUSTRY<br>
 `2` YEARS OF TEAM EXPERIENCE IN PROGRAMMING INDUSTRY
 
-## Programming Knowledge `Since 2015`
-`C++`, `PHP`, `Java`, `JavaScript`, `Linux`, `SQL`, `No-SQL`, `HTML`, `CSS`, `Bootstrap`
-## Mathematics Knowledge `Since 2013`
-`Mathematical modeling`, `Logic & set theory`, `Discrete math & algorithms`, `Algebra`, `Linear algebra`, `Geometry`. `Trigonometry`, `Probability & statistics`, `Calculus & analysis`, `Numerical methods & optimization`, `Number theory`
+## Computer Science Knowledge `Since 2015`
+`C++`, `Python`, `PHP`, `Java`, `JavaScript`, `Linux`, `SQL`, `No-SQL`, `HTML`, `CSS`, `Linux`
+## And a ton of Mathematics knowledge `Since 2013`
 
 ## Just a few ratings from customers
 ### ItzJustSamuel
