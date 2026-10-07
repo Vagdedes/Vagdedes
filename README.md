@@ -8,7 +8,7 @@
 
 ## Computer Science Knowledge `Since 2015`
 `C++`, `Python`, `PHP`, `Java`, `JavaScript`, `Linux`, `SQL`, `No-SQL`, `HTML`, `CSS`, `Linux`
-## And a ton of Mathematics knowledge `Since 2013`
+##### And a ton of Mathematics knowledge `Since 2013`
 
 ## Just a few ratings from customers
 ### ItzJustSamuel
