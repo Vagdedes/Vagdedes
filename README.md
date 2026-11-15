@@ -11,17 +11,11 @@
 ##### And a ton of Mathematics knowledge `Since 2013`
 
 ## Just a few ratings from customers
-### ItzJustSamuel
-The functions are actively being improved day to day being optimized even more, it's the start the new concepts of understanding for him which he is actively looking for, it's worth it in my book!
-### Galexrt
-Great communication from the developer, always got quick help in case something came up. Definitely worth the price.
-### DaringDoughnut
-Works right out of the box, the developer helped me over Discord very promptly, would recommend for the easy use and instant support.
-### mleynful
-The dev really puts effort into this and it shows, frequent updates and always improving!
-### sbud
-Very good customer support. Fixed my issues in seconds. Highly recommend. Thank you very much :)
-### Xarius86
-The developer is incredibly responsive to any and all concerns. Updates are released often and fixes are implemented incredibly quickly.
+- **ItzJustSamuel**: The functions are actively being improved day to day being optimized even more, it's the start the new concepts of understanding for him which he is actively looking for, it's worth it in my book!
+- **Galexrt**: Great communication from the developer, always got quick help in case something came up. Definitely worth the price.
+- **DaringDoughnut**: Works right out of the box, the developer helped me over Discord very promptly, would recommend for the easy use and instant support.
+- **mleynful**: The dev really puts effort into this and it shows, frequent updates and always improving!
+- **sbud**: Very good customer support. Fixed my issues in seconds. Highly recommend. Thank you very much :)
+- **Xarius86**: The developer is incredibly responsive to any and all concerns. Updates are released often and fixes are implemented incredibly quickly.
 
 
